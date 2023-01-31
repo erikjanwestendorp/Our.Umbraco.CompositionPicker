@@ -15,3 +15,4 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+src/Our.Umbraco.CompositionPicker.Site/umbraco/Data/Umbraco.sqlite.db
