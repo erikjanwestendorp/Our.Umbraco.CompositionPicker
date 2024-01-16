@@ -1,2 +1,2 @@
-# CompositionPicker
+# Our.Umbraco.CompositionPicker
 
